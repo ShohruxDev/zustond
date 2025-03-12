@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Layout from "./Components/Layout";
-import Asosiypage from "./Pages/AsosiyPage";
+import Asosiypage from "./Pages/Asosiypage";
 import NewsProvider from "./context/newsadd";
 import Maxsulotlarpage from "./Pages/Maxsulotlarpage";
 import Korzinkapage from "./Pages/Korzinkapage";
